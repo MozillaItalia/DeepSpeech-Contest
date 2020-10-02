@@ -2,7 +2,7 @@
 
 Developer contest 2020 per progetti open source che utilizzano il [modello di lingua italiana](https://github.com/MozillaItalia/DeepSpeech-Italian-Model).  
 Il contest è organizzato dalla comunità Mozilla Italia, costituita da volontari che si occupano di tradurre, promuovere, fare supporto e molto altro per i progetti Mozilla.  
-Per questo il contest è informale ovvero, senza certificati di participazione ma solo tanta voglia di collaborare e divertirsi utilizzando tecnologie open source per invogliare a partecipare nelle attività della comunità.
+Per questo il contest è informale ovvero, senza certificati di partecipazione (non siamo un entità legale) ma solo tanta voglia di collaborare e divertirsi utilizzando tecnologie open source per invogliare a partecipare nelle attività della comunità.
 
 ## Cos'è DeepSpeech e Common Voice
 
@@ -41,9 +41,9 @@ La storia del modello è disponibile in inglese come [articolo](https://daniele.
 
 ## Premi
 
-  * 1° premio: maglietta (massimo di 3 a seconda del team), adesivi sfusi
-  * 2° premio: una maglietta, adesivi sfusi
-  * 3° premio: collapsible cup brandizzata mozilla, adesivi sfusi
+  * 1° classificato: maglietta (massimo di 3 a seconda del team), adesivi sfusi
+  * 2° classificato: una maglietta, adesivi sfusi
+  * 3° classificato: collapsible cup brandizzata mozilla, adesivi sfusi
   * progetti scelti: adesivi sfusi
 
 I premi verranno poi spediti successivamente quindi è necessario avere un contatto funzionante.
