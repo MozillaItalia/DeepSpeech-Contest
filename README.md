@@ -34,7 +34,7 @@ La storia del modello è disponibile in inglese come [articolo](https://daniele.
   * Deve essere presentato un video su Youtube o similari per la presentazione definitiva del suo funzionamento e presente il link nel progetto stesso
   * Articoli su blog (ad esempio) sul modello, sul progetto o contributi al repository del modello (dal corpus testuale al resto) sono apprezzati
 * Come applicare
-  * Creando un ticket su questo repositoru da compilare con il link al repository ed un contatto email/telegram
+  * Creando un ticket su questo repository da compilare con il link al repository del progetto ed un contatto telegram/twitter/facebook
   * Per la fine del periodo deve essere presente nel repository il link al video 
 * Chat
   * Disponibile tramite il bot @mozitabot per Telegram utilizzando il gruppo Developers del supporto più tecnico
@@ -46,7 +46,7 @@ La storia del modello è disponibile in inglese come [articolo](https://daniele.
   * 3° premio: collapsible cup brandizzata mozilla, adesivi sfusi
   * progetti scelti: adesivi sfusi
 
-I premi verranno poi spediti successivamente, nei tempi che i volontari potranno
+I premi verranno poi spediti successivamente quindi è necessario avere un contatto funzionante.
 
 ### Foto (di esempio)
 
