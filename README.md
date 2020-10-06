@@ -31,7 +31,7 @@ La storia del modello è disponibile in inglese come [articolo](https://daniele.
   * Realizzare dei progetti che sfruttino il [modello italiano DeepSpeech](https://github.com/MozillaItalia/DeepSpeech-Italian-Model) nelle varie versioni rilasciate 
   * Tali progetti devono essere rilasciati come open source (tecnologie libere) su GitHub/Gitlab/ecc, includere una documentazione d'uso e una licenza (open source)
   * Il progetto può essere in italiano o inglese
-  * Deve essere presentato un video su Youtube o similari per la presentazione definitiva del suo funzionamento e presente il link nel progetto stesso
+  * Fortemente raccomandato un video di dimostrazione su Youtube o similari per la presentazione definitiva del suo funzionamento e da includere il link nel progetto stesso
   * Articoli su blog (ad esempio) sul modello, sul progetto o contributi al repository del modello (dal corpus testuale al resto) sono apprezzati
 * Come applicare
   * Creando un ticket su questo repository da compilare con il link al repository del progetto ed un contatto telegram/twitter/facebook
