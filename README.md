@@ -26,7 +26,7 @@ La storia del modello è disponibile in inglese come [articolo](https://daniele.
   * Repo modello mantainer: @mone27, @nefastosaturo
   * Moderatori di /r/italyinformatica
 * Criteri di valutazione
-  * I singoli progetti verranno valutati per il loro funzionamento, replicabilità e secondo il parere/gusto della giuria
+  * I singoli progetti verranno valutati per il loro funzionamento (anche in formato prototipo secondo i limiti della tecnologia), replicabilità e secondo il parere/gusto della giuria
 * Scopo
   * Realizzare dei progetti che sfruttino il [modello italiano DeepSpeech](https://github.com/MozillaItalia/DeepSpeech-Italian-Model) nelle varie versioni rilasciate (consigliamo quello con transfer learning da lingua inglese che è migliore)
   * Tali progetti devono essere rilasciati come open source (tecnologie libere) su GitHub/Gitlab/ecc, includere una documentazione d'uso e una licenza (open source)
