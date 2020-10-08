@@ -15,6 +15,10 @@ Per tale progetto utilizziamo dataset di pubblico dominio o che la licenza ci pe
 
 La storia del modello è disponibile in inglese come [articolo](https://daniele.tech/2019/12/how-the-italian-deepspeech-model-helped-our-mozilla-italia-community/) o [presentazione al Fosdem 2020](https://archive.fosdem.org/2020/schedule/event/how_to_get_fun_with_teamwork/) oppure in [italiano in versione breve](https://www.miamammausalinux.org/2020/04/mozilla-italia-promuove-il-modello-di-riconoscimento-vocale-in-italiano-per-deepspeech/).
 
+## Cosa realizzare
+
+La premessa è di utilizzare il modello, alcuni esempi: videogioco a comandi vocali (anche integrazione ad un gioco esistente), un dettatore automatico per LibreOffice, assistente vocale su raspberry pi per il controllo dei sensori, controllo vocale del sistema operativo per disabili ecc.
+
 ## Regolamento
 
 * Periodo: 6 ottobre/15 novembre
