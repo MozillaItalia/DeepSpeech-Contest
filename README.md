@@ -13,7 +13,8 @@ Per tale progetto utilizziamo dataset di pubblico dominio o che la licenza ci pe
 
 ## Il modello di lingua Italiana
 
-La storia del modello è disponibile in inglese come [articolo](https://daniele.tech/2019/12/how-the-italian-deepspeech-model-helped-our-mozilla-italia-community/) o [presentazione al Fosdem 2020](https://archive.fosdem.org/2020/schedule/event/how_to_get_fun_with_teamwork/) oppure in [italiano in versione breve](https://www.miamammausalinux.org/2020/04/mozilla-italia-promuove-il-modello-di-riconoscimento-vocale-in-italiano-per-deepspeech/).
+La storia del modello è disponibile in inglese come [articolo](https://daniele.tech/2019/12/how-the-italian-deepspeech-model-helped-our-mozilla-italia-community/) o [presentazione al Fosdem 2020](https://archive.fosdem.org/2020/schedule/event/how_to_get_fun_with_teamwork/) oppure in [italiano in versione breve](https://www.miamammausalinux.org/2020/04/mozilla-italia-promuove-il-modello-di-riconoscimento-vocale-in-italiano-per-deepspeech/).  
+Il modello è realizzato con il supporto dell'università di Torino che ci ha dato un server da utilizzare.
 
 ## Cosa realizzare
 
