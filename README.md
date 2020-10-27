@@ -1,6 +1,6 @@
 # DeepSpeech-Contest 2020
 
-Developer contest 2020 per progetti open source che utilizzano il [modello di lingua italiana](https://github.com/MozillaItalia/DeepSpeech-Italian-Model).  
+Developer contest 2020 per progetti open source che utilizzano il [modello di lingua italiana](https://github.com/MozillaItalia/DeepSpeech-Italian-Model) (esempi su DeepSpeech per lo sviluppo nel readme del progetto con il repo degli esempi).  
 Il contest è organizzato dalla comunità Mozilla Italia, costituita da volontari che si occupano di tradurre, promuovere, fare supporto e molto altro per i progetti Mozilla.  
 Per questo il contest è informale ovvero, senza certificati di partecipazione (non siamo un entità legale) ma solo tanta voglia di collaborare e divertirsi utilizzando tecnologie open source per invogliare a partecipare nelle attività della comunità.
 
