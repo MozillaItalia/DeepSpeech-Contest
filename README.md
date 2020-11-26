@@ -86,6 +86,10 @@ Per ogni parametro, inoltre, ogni giurato ha inserito una motivazione per il qua
 
 È possibile scaricare la panoramica generale, ovvero la lista dei vincitori con la relativa media assoluta, tramite questo link: [Classifica Generale](https://drive.google.com/file/d/19UKabwHWWuuYlk7WAJTExZ5j8AzduhMS/view?usp=sharing).
 
+
+
+*@edovio per problemi personali non ha potuto partecipare alla valutazione dei progetti.
+
 ### Vincitori
 
 La classifica è la seguente:
